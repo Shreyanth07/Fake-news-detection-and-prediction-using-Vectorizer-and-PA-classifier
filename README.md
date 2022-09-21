@@ -1,4 +1,4 @@
-# PA-Classifier-for-fake-news-detection-and-prediction
+# Fake-news-detection-and-prediction-using-Vectorizer-and-PA-classifier
 
 - Data Exploration
 - Data cleaning & Preparation
