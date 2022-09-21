@@ -1,4 +1,4 @@
-# PA-Classifier-for-fake-news-detection
+# PA-Classifier-for-fake-news-detection-and-prediction
 
 - Data Exploration
 - Data cleaning & Preparation
